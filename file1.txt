@@ -1,1 +1,2 @@
 this is the first file i created in git today
+and i have maded changes in it
